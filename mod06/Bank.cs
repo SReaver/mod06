@@ -10,7 +10,7 @@ namespace Bankomat
     {
         class Bank
         {
-            NAccount.Account A1 = new NAccount.Account();
+            
         }
     }
 
